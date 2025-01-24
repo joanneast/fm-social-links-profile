@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://your-solution-url.com
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://github.com/joanneast/fm-social-links-profile
+- Live Site URL: https://fm-social-links-profile-jet.vercel.app/
 
 ## My process
 
