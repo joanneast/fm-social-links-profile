@@ -35,7 +35,7 @@ export default function Home() {
                 key={index}
                 href={community.url}
                 target="_blank"
-                className="rounded-xl py-3 bg-custgrey700 hover:bg-custlime hover:text-custgrey800">
+                className="rounded-xl py-3 bg-custgrey700 hover:bg-custlime hover:text-custgrey800 transition-colors duration-200">
                 {community.name}
               </a>
             ))
